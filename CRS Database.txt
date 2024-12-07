@@ -1,0 +1,53 @@
+tables that created in CRS:
+Customer table
+General Vehicle table contents , 
+ - Vehicle ID
+ - Vehicle Model
+ - Vehicle Class
+ - Rent price/ day
+ - Insurance 
+
+Payment 
+ - Rental 
+Customer table
+Sedan table content
+1  FORD FIESTA  	Sedan, Economy  1200  African insurance
+2  HYUNDAI ACCENT  	Sedan, Economy  1200  African insurance
+3  KIA RIO  		Sedan, Economy  1200  African insurance
+4  TOYOTA CAMRY  	Sedan, Economy  1200  African insurance
+5  CADILLAC XTS  	Sedan, Luxury  10000  African insurance
+6  LINCOLN CONTINENTAL  Sedan, Luxury  10000  African insurance
+7  DODGE CHARGER R/T  	Sedan, Muscle Car  8399  African insurance
+8  DODGE CHALLENGER R/T  Sedan, Muscle Car  8399  African insurance
+9  FORD MUSTANG GT  	Sedan, Muscle Car  8399  African insurance
+10 FORD MUSTANG 	Sedan, Convertible  9000  African insurance
+11 FORD MUSTANG GT  	Sedan, Convertible  9000  African insurance
+12 CHEVROLET CAMARO  	Sedan, Convertible  9000  African insurance
+SUV table content
+1  Toyota RAV4 		SUV, Mid-size  4500  African insurance
+2  Hyundai Tucson  	SUV, Mid-size  4500  African insurance
+3  Toyota 4Runner  	SUV, Standard  5000  African insurance
+4  GMC Terrain		SUV, Standard  5000  African insurance
+5  Jeep Grand Cherokee	SUV, Standard  5000  African insurance
+6  Cadillac Escalade	SUV, Luxury 12000  African insurance
+7  Mercedes GLS 450	SUV, Luxury 12000  African insurance
+8  GMC Yukon XL		SUV, Luxury 12000  African insurance
+9  Chevrolet Suburban	SUV, Luxury 12000  African insurance
+10 MERCEDES-BENZ G-Wagon  SUV, Luxury 12000  African insurance
+Pick UP Trucks table content
+1  Ram Rebel	Pickup-Truck  7599  African insurance
+2  Ford F-150	Pickup-Truck  7599  African insurance
+3  Ram 1500	Pickup-Truck  7599  African insurance
+4  Ford F-150	Pickup-Truck  7599  African insurance
+5  Chevrolet Silverado  Pickup-Truck  7599  African insurance
+6  Nissan Titan	Pickup-Truck  7599  African insurance
+7  Toyota Tundra Pickup-Truck  7599  African insurance
+8  Toyota Hilux Adventure  Pickup-Truck  7599  African insurance
+mini/Vans table content
+1  Chevrolet Express 	Van 7000  African insurance
+2  Ford Transit 	Van 7000  African insurance
+3  Chrysler Pacifica	MiniVan 6000  African insurance
+4  Chrysler Voyager	MiniVan 6000  African insurance
+5  Chrysler Voyager	MiniVan 6000  African insurance
+
+
